@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Me App</string>
+    <string name="idowu_omolara">Idowu Omolara Abigail</string>
+    <string name="track">Track:</string>
+    <string name="track_level">Track Level:</string>
+    <string name="bio">Bio:</string>
+    <string name="tap_me">TAP ME!</string>
+    <string name="track_name">Android Development (Kotlin)</string>
+    <string name="track_level_name">Beginner Level (Stage 1)</string>
+    <string name="bio_textV">I am an android developer and a student from Oyo state, Nigeria. I think of myself as a quiet, shy, down-to-earth and outgoing person. I wish to be amongst fellow bright and intelligent ladies who want to pioneer a movement in Africa through tech.</string>
+</resources>
